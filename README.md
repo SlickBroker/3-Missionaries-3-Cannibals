@@ -1,6 +1,7 @@
-                                      # 3 Missionaries 3 Cannibals
+# 3 Missionaries 3 Cannibals
 
 3 Missionaries 3 Cannibals
+
 Play the famous 3 missionaries 3 cannibals crossing the river game.
 
 Rules :
@@ -9,5 +10,4 @@ Rules :
 3) You lose if the number of cannibals exceeds the number of missionaries on either side.
 4) You win if you successfully transfer all the missionaries and cannibals from right side to left side.
 
-
-                                              ENJOY
+ENJOY
